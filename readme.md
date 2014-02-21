@@ -4,7 +4,7 @@ By using this extension, you can easier to read the document for twitter bootstr
 
 ###Usage
 1. Clone this down
-2. Read [this](http://developer.chrome.com/extensions/getstarted#unpacked) to learn how to install unpack extension for Chrome
+2. Read [this](http://developer.chrome.com/extensions/getstarted#unpacked) to learn how to install unpacked extension to Chrome
 3. Click on navigation bar or you can use context menu as well
 
 Document source is copied from [here](https://github.com/bachvtuan/bootstrap3.1.1-offline)  
