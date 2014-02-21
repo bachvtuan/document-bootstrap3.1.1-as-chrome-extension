@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Bootstrap3.1.1 document",
+  "description": "Help register username automatically",
+  "version": "1.0",
+  "browser_action": {
+    "default_title": "Bootstrap3.1.1 document",
+    "default_icon": "images/icon64.png"
+  },
+  "background" : { "scripts": ["background.js"] },
+  "permissions" : [
+    "contextMenus"
+   ],
+  "content_security_policy": "script-src 'self'  https://signup.leagueoflegends.com/; object-src 'self'",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "64": "images/icon64.png"
+  }
+}
