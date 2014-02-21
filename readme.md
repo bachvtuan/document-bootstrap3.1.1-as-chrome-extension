@@ -1,6 +1,7 @@
 #Bootstrap 3.1.1 document as chrome extension
 
-By using this extension, you can easier go to twitter bootstrap document instant by clicking on chrome. The document is stored at local, so you don't need internet connection.
+By using this extension, you can easier to read the document for twitter bootstrap  instantly by clicking on chrome. The document is stored at your computer, so you don't need internet connection.
+
 ###Usage
 1. Clone this down
 2. Read [this](http://developer.chrome.com/extensions/getstarted#unpacked) to learn how to install unpack extension for Chrome
